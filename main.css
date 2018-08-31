@@ -27,7 +27,18 @@ header h2{
 	font-variant: small-caps;
 	text-align: center;
 	color: fff;
-}	
+}
+#hei {
+	max-width: 960p;
+	margin: 0 auto;
+	background-color: C0C0C0;
+	padding: 32px;
+}
+.lol h3{
+	font-variant: small-caps;
+	text-align: center;
+	color: FFFFFF;
+}
 
 .main_menu{
 	padding: 5px 0 5px 0;
