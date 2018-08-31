@@ -29,6 +29,12 @@ header h2{
 	color: fff;
 }	
 
+header h5{
+	font-variant: small-caps;
+	text-align: center;
+	color: C0C0C0;
+}	
+
 .main_menu{
 	padding: 5px 0 5px 0;
 	text-align: left;
