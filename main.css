@@ -30,7 +30,7 @@ header h2{
 }
 
 .main_menu{
-	padding: 5px 0 58px 0;
+	padding: 5px 0 5px 0;
 	text-align: left;
 	background-color: #000000; 
 }
@@ -40,7 +40,7 @@ ul.main_menu{
 }
 
 .main_menu li {
-	padding: 0 10px 0 10
+	padding: 0 10px 0 10;
 	font-size: 20px
 }
 
