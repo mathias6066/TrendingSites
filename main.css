@@ -6,14 +6,14 @@ body {
 #wrapper {
 	max-width: 960p;
 	margin: 0 auto;
-	background-color: fffff;
-	padding: 20px;
+	background-color: ffff;
+	padding: 32px;
 }
 
 header {
 	background-color: #FF8C00;
 	height: 150px;
-	padding: 5px;
+	padding: 4px;
 }
 
 header h1{
@@ -27,7 +27,7 @@ header h2{
 	font-variant: small-caps;
 	text-align: center;
 	color: fff;
-}
+}	
 
 .main_menu{
 	padding: 5px 0 5px 0;
@@ -36,11 +36,11 @@ header h2{
 }
 
 ul.main_menu{
-	margin-top: 100px;	
+	margin-top: 15px;	
 }
 
 .main_menu li {
-	padding: 0 10px 0 10;
+	padding: 0 10px 0 10
 	font-size: 20px
 }
 
