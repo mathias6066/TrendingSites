@@ -54,3 +54,8 @@ ul.main_menu{
 .main_menu a:hover{
 	color: #FF8C00;	
 }
+.view {
+	padding: 5px 0 1px 0;
+	text-align: left;
+	background-color: FFFFFF; 	
+}
