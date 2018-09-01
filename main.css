@@ -30,8 +30,14 @@ header h2{
 }
 .nav{
 	padding: 3px 3px 0;
-	text-align: left;
+	text-align: center;
 	background-color: #696969; 
+}
+.main_menu a{
+	text-decoration: none;
+	color: #FF8C00;
+	padding: 8px;
+	font-variant: small-caps;
 }
 .main_menu li {
 	padding: 0 10px 0 10
