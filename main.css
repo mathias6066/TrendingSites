@@ -27,7 +27,12 @@ header h2{
 	font-variant: small-caps;
 	text-align: center;
 	color: fff;
-}	
+}
+.nav{
+	padding: 5px 0 5px 0;
+	text-align: left;
+	background-color: #696969; 
+}
 
 .main_menu{
 	padding: 5px 0 5px 0;
