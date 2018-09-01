@@ -1,5 +1,8 @@
 body {
-	font-family: 'Arial', sans-serif;
+	font-f
+	padding: 0px 0px 0;
+	text-align: center;
+	background-color: #696969; amily: 'Arial', sans-serif;
 	background-color: #f3f3f3;
 }
 
@@ -29,9 +32,6 @@ header h2{
 	color: fff;
 }
 .nav{
-	padding: 0px 0px 0;
-	text-align: center;
-	background-color: #696969; 
 }
 .nav li {
 	padding: 0 5px 0 5;
