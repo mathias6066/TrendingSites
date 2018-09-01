@@ -33,6 +33,11 @@ header h2{
 	text-align: left;
 	background-color: #696969; 
 }
+.main_menu li {
+	padding: 0 10px 0 10
+	font-size: 20px;
+}
+
 
 .main_menu{
 	padding: 5px 0 5px 0;
@@ -41,7 +46,7 @@ header h2{
 }
 
 ul.main_menu{
-	margin-top: 15px;	
+	margin-top: 15px;
 }
 
 .main_menu li {
