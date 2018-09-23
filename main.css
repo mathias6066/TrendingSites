@@ -31,10 +31,12 @@ header h2{
 	text-align: center;
 	color: fff;
 }
-.Home li {
-	padding: 0 10px 0 10;
-	background-color: #A9A9A9;
-	font-size: 20px;
+
+
+.Home{
+	padding: 5px 0 5px 0;
+	text-align: centre;
+	background-color: #A6A6A6; 
 }
 .main_menu a{
 	text-decoration: none;
